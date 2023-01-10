@@ -13,5 +13,8 @@ hello zx! hellogit!
 hello zx! hellogit!
 hello zx! hellogit!
 hello zx! hellogit!
+<<<<<<< HEAD
 hello zx! hellogit! master test
-hello zx! hellogit!
+=======
+hello zx! hellogit! hot-fix test
+>>>>>>> hot-fix
